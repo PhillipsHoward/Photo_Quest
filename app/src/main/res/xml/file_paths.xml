@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths xmlns:tools="http://schemas.android.com/tools"
+    tools:ignore="NamespaceTypo">
+    <external-path
+        name="my-images"
+        path="Android/data/fr.wcs.photoquest/files/Pictures" />
+</paths>
